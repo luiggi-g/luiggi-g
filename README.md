@@ -74,8 +74,6 @@ Proyecto enfocado en autenticación y desarrollo backend.
 ## 05 / CONTACTO
 
 - GitHub: [@luiggi-g](https://github.com/luiggi-g)
-- LinkedIn: [Agregar perfil]
-- Email: [Agregar correo profesional]
 
 ---
 

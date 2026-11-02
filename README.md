@@ -58,10 +58,23 @@ Me interesa construir soluciones que permitan transformar datos en información 
 </p>
 ## 03 / PROYECTOS DESTACADOS
 
-### VENTAS-ETL
-Pipeline ETL orientado al procesamiento de datos de comercio electrónico.
+<h3>
+  <a href="https://github.com/luiggi-g/ventas-etl">
+    VENTAS-ETL
+  </a>
+</h3>
 
-Tecnologías: Python, Pandas, PostgreSQL.
+<p>
+  Pipeline ETL para procesar datos de comercio electrónico,
+  aplicando validaciones, limpieza y transformaciones antes
+  de cargarlos en PostgreSQL.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 
 ### INVENTORY-BASIC
 Proyecto de gestión de inventario.

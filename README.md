@@ -29,25 +29,33 @@ Me interesa construir soluciones que permitan transformar datos en información 
 
 <h3>Bases de datos</h3>
 
+<p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 
 <h3>Datos y procesamiento</h3>
 
+<p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+</p>
 
 <h3>Backend y automatización</h3>
 
+<p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/BeautifulSoup-59666C?style=flat-square&logo=python&logoColor=white"/>
+</p>
 
 <h3>Herramientas</h3>
 
+<p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</p>
 ## 03 / PROYECTOS DESTACADOS
 
 ### VENTAS-ETL

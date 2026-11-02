@@ -56,12 +56,11 @@ Me interesa construir soluciones que permitan transformar datos en información 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
-## 03 / PROYECTOS DESTACADOS
+
+<h2>03 / PROYECTOS DESTACADOS</h2>
 
 <h3>
-  <a href="https://github.com/luiggi-g/ventas-etl">
-    VENTAS-ETL
-  </a>
+  <a href="https://github.com/luiggi-g/ventas-etl">VENTAS-ETL</a>
 </h3>
 
 <p>
@@ -76,14 +75,43 @@ Me interesa construir soluciones que permitan transformar datos en información 
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
-### INVENTORY-BASIC
-Proyecto de gestión de inventario.
+<h3>
+  <a href="https://github.com/luiggi-g/fastapi-tasks-api">FASTAPI-TASKS-API</a>
+</h3>
 
-### FASTAPI-TASKS-API
-API REST desarrollada utilizando FastAPI.
+<p>
+  API REST para la gestión de tareas desarrollada con Python y FastAPI.
+</p>
 
-### AUTHCORE
-Proyecto enfocado en autenticación y desarrollo backend.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
+
+<h3>
+  <a href="https://github.com/luiggi-g/AuthCore">AUTHCORE</a>
+</h3>
+
+<p>
+  Proyecto de autenticación y desarrollo backend con Python.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+<h3>
+  <a href="https://github.com/luiggi-g/inventory-basic">INVENTORY-BASIC</a>
+</h3>
+
+<p>
+  Sistema de gestión de inventario desarrollado con Python y PostgreSQL.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 
 ---
 

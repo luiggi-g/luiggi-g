@@ -1,21 +1,12 @@
 # LUIGGI G.
+
 ### INGENIERO DE SISTEMAS | DATA ANALYTICS · BI · DATA ENGINEERING
 
-Ingeniero de Sistemas con aproximadamente 2 años de experiencia en desarrollo y automatización de procesos utilizando Python.
+Ingeniero de Sistemas con experiencia en desarrollo y automatización con Python. Actualmente enfocado en análisis, procesamiento y gestión de datos, con interés en construir soluciones que transformen datos en información útil.
 
-Actualmente enfocado en el análisis, procesamiento y gestión de datos, fortaleciendo mis conocimientos en SQL, bases de datos relacionales y herramientas de análisis.
+**ÁREAS DE INTERÉS**
 
-Me interesa construir soluciones que permitan transformar datos en información útil para la toma de decisiones.
-
----
-
-## 01 / ÁREAS DE INTERÉS
-
-- Data Analytics & Business Intelligence
-- Data Engineering & ETL
-- Administración y gestión de bases de datos
-- Automatización de procesos
-- Desarrollo backend con Python
+Data Analytics · Business Intelligence · Data Engineering · ETL · Bases de datos · Python
 
 <h2>02 / TECNOLOGÍAS</h2>
 
